@@ -23,7 +23,6 @@ Aplicaciones y tecnologías que estoy aprendiendo:
 
 - Microsoft Power BI <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/59dc38f2-2714-4471-9ff6-54b3f898bb0c" />
 
-
 ## Heramienta de trabajo 
 
 - Visual Studio Code <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
